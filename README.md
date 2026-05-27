@@ -115,4 +115,4 @@ B.Tech DSEB, Plaksha University (Batch 2024–28)
 
 **Budati Nagaveni**  
 B.Tech DSEB, Plaksha University (Batch 2024–28)  
-[LinkedIn_Nagaveni](www.linkedin.com/in/budati-nagaveni-20b49235b/) 
+[LinkedIn_Nagaveni](https://www.linkedin.com/in/budati-nagaveni-20b49235b/) 
