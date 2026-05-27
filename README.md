@@ -112,3 +112,7 @@ Models trained and evaluated on an 80/20 train-test split:
 **Divy Gupta**  
 B.Tech DSEB, Plaksha University (Batch 2024–28)  
 [LinkedIn](https://www.linkedin.com/in/divy-gupta-61720725a/) 
+
+**Budati Nagaveni**  
+B.Tech DSEB, Plaksha University (Batch 2024–28)  
+[LinkedIn_Nagaveni](www.linkedin.com/in/budati-nagaveni-20b49235b/) 
